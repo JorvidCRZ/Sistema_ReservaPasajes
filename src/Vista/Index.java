@@ -1,7 +1,7 @@
 package Vista;
 import java.awt.EventQueue;
-import Interfaces.Login;
 
+import Interfaces.Inicio;
 
 public class Index {
 
@@ -10,7 +10,7 @@ public class Index {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
-					Login frame = new Login();
+					Inicio frame = new Inicio();
 					frame.setVisible(true);
 				} catch (Exception e) {
 					e.printStackTrace();
