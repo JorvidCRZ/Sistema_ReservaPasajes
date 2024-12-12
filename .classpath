@@ -6,6 +6,8 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/DAVID/eclipse-workspace/SistemaPasajes/mysql-connector-j-9.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DAVID/eclipse-workspace/Sistem_Pasaje/flatlaf-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DAVID/eclipse-workspace/Sistem_Pasaje/flatlaf-intellij-themes-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DAVID/eclipse-workspace/Sistem_Pasaje/mysql-connector-j-9.1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
