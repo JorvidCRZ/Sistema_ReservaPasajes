@@ -29,3 +29,21 @@
 │   ├── 📂 Config        # Configuración y conexión con MySQL
 │   └── 📂 Recursos      # Imágenes, íconos y otros recursos
 └── README.md            # Documentación del proyecto
+```
+## Inicio
+![Inicio](https://github.com/JorvidCRZ/Sistema_ReservaPasajes/blob/main/bin/com/img/imgs/inicio.png)
+
+## Registrar
+![Registrar](https://github.com/JorvidCRZ/Sistema_ReservaPasajes/blob/main/bin/com/img/imgs/registrar.png)
+
+## Login
+![Logeo](https://github.com/JorvidCRZ/Sistema_ReservaPasajes/blob/main/bin/com/img/imgs/login.png)
+
+## Menu
+![Menu](https://github.com/JorvidCRZ/Sistema_ReservaPasajes/blob/main/bin/com/img/imgs/menu.png)
+
+## Reservar
+![Reservar](https://github.com/JorvidCRZ/Sistema_ReservaPasajes/blob/main/bin/com/img/imgs/reserva.png)
+
+##Insertar Pasajeros
+![Pasajeros](https://github.com/JorvidCRZ/Sistema_ReservaPasajes/blob/main/bin/com/img/imgs/insertarpasajero.png)
